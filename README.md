@@ -32,9 +32,9 @@ Tech: Scikit-Learn, Pandas, Streamlit.
 ---
 
 ## 📫 Contact  
-Email: **adrian.moroianu13@gmail.com**   
-LinkedIn: *https://linkedin.com/in/yourprofile*    
-Portfolio: *https://yourportfolio.com*
+Email: **moroianu.adrian90@gmail.com**   
+LinkedIn: *www.linkedin.com/in/adrian-moroianu-45ab55301*    
+Portfolio: *https://moroianu13.github.io/index.html*
 
 
 ---
